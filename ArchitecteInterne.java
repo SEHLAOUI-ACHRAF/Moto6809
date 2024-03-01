@@ -145,7 +145,7 @@ public class ArchitecteInterne extends JFrame {
 		contentPane.add(C);
 		
 		JLabel lblNewLabel = new JLabel();
-		lblNewLabel.setIcon(new ImageIcon("/UPanle.png"));
+		lblNewLabel.setIcon(new ImageIcon("./UPanle.png"));
 		lblNewLabel.setBounds(2, 2, 210, 380);
 		contentPane.add(lblNewLabel);
 	}
