@@ -1,7 +1,7 @@
 # Moto6809
 Simulateur de Microprocesseur Moto6809
 
-Aperçu du Motorola 6809 :
+# Aperçu du Motorola 6809 :
 
 Introduit en 1978, le Motorola 6809 est un microprocesseur 8 bits qui s'est distingué dans l'histoire de l'informatique. Comparé à son prédécesseur, le Motorola 6800, il a apporté des améliorations notables en termes de performance et de capacités. Parmi ses caractéristiques marquantes, on peut citer : 
 
@@ -12,12 +12,12 @@ Introduit en 1978, le Motorola 6809 est un microprocesseur 8 bits qui s'est dist
   3.	Performance accrue : Il était considéré comme l'un des microprocesseurs 8 bits les plus puissants en termes de traitement des instructions complexes. 
 
 
-Impact dans l'Industrie : 
+# Impact dans l'Industrie : 
 
   Le 6809 a été largement adopté pour divers usages, y compris dans les ordinateurs personnels, les systèmes de jeux vidéo et même dans des applications industrielles. Sa capacité à supporter des systèmes d'exploitation plus avancés a joué un rôle crucial dans son succès. 
 
 
-Pourquoi un Simulateur est Nécessaire ? 
+# Pourquoi un Simulateur est Nécessaire ? 
 
   1.	Compréhension Historique : Un simulateur permet d'explorer et de comprendre l'architecture et la programmation des premiers microprocesseurs, essentiels à l'histoire de l'informatique. 
   
@@ -30,7 +30,7 @@ Pourquoi un Simulateur est Nécessaire ?
 En somme, le Motorola 6809 est non seulement un jalon important de l'histoire de la technologie, mais sa simulation est aussi une fenêtre sur le passé de l'informatique, un outil d'apprentissage précieux, et un moyen de préserver un héritage numérique important. 
  
  
-Introduction Générale :
+# Introduction Générale :
 
   Dans le cadre du développement d'un simulateur informatique complexe, plusieurs composants logiciels jouent un rôle crucial pour assurer son fonctionnement harmonieux et efficace. Les fichiers ArchitecteInterne.java, Editeur.java, Menu.java, RAM.java, et ROM.java constituent les éléments fondamentaux de ce simulateur, chacun apportant une fonctionnalité spécifique et essentielle à l'ensemble du système. Ces fichiers, écrits en Java, un langage de programmation orienté objet et largement utilisé, sont conçus pour interagir ensemble dans le but de simuler le comportement d'une architecture informatique spécifique. 
   
@@ -41,45 +41,35 @@ Introduction Générale :
   5.Programme.java : Cette fenêtre pourrait être dédiée à l'affichage ou à la manipulation de programmes
 
  
-Objectifs du Simulateur Motorola 6809 :
+# Objectifs du Simulateur Motorola 6809 :
 
   Le simulateur de microprocesseur Motorola 6809 est conçu avec des objectifs clairs pour fournir une expérience complète et éducative. Voici les principaux objectifs définis pour ce simulateur : 
-  
-  1. Émulation Fidèle du Jeu d'Instructions 
+
+  1. Émulation Fidèle du Jeu d'Instructions
     - Reproduire avec précision toutes les instructions du processeur 6809. 
     - Implémenter les modes d'adressage uniques du 6809 pour une simulation réaliste. 
   
-  2. Visualisation et Gestion de la Mémoire 
+  3. Visualisation et Gestion de la Mémoire 
     - Simuler la RAM et la ROM, permettant aux utilisateurs de voir et de modifier leur contenu. 
     - Fournir des outils graphiques pour visualiser facilement l'état de la mémoire. 
   
-  3. Capacités de Débogage 
+  4. Capacités de Débogage 
     - Permettre des points d'arrêt pour stopper l'exécution et analyser le comportement du programme. 
     - Offrir une exécution pas à pas pour observer les changements après chaque instruction. 
     - Proposer des outils pour inspecter et modifier l'état du processeur et de la mémoire en temps réel. 
   
-  4. Interface Utilisateur Intuitive 
+  5. Interface Utilisateur Intuitive 
     - Créer une interface facile à utiliser, adaptée à différents niveaux d'utilisateurs. 
     - Afficher clairement les résultats des programmes et l'état du processeur. 
   
-  5. Support Éducatif et Documentation 
+  6. Support Éducatif et Documentation 
     - Fournir une documentation complète, expliquant l'utilisation et les fonctionnalités du simulateur. 
     - Inclure des ressources pédagogiques pour enseigner les principes de l'architecture des microprocesseurs. 
  
- 
-Diagramme de GANTT :
 
-  Le diagramme de Gantt est un outil essentiel en gestion de projet, car il permet de visualiser les différentes tâches à effectuer dans le temps. Il s'agit d'un graphique qui montre les différentes étapes du projet, leur durée, leur ordre de réalisation et leurs interdépendances. Grâce à cette représentation, il est possible de suivre l'avancement du projet, de détecter les éventuels retards et de prendre les mesures nécessaires pour les rattraper.  
-
-
-Le diagramme de Gantt ci-dessous illustre la planification et la progression du projet : 
+## hoix Technologiques : 
  
-Conception et Architecture du Simulateur Motorola 6809 
- 
-
-Choix Technologiques : 
- 
-JAVA : 
+# JAVA : 
 
   - Portabilité : Java est célèbre pour sa devise "Écrire une fois, exécuter partout", ce qui signifie que le code Java peut s'exécuter sur n'importe quelle plateforme sans modification. Cela est particulièrement utile pour un simulateur destiné à une large audience. 
   
@@ -88,7 +78,7 @@ JAVA :
   - Outils de Développement : Java dispose d'un vaste écosystème d'outils et de bibliothèques qui facilitent le développement de simulateurs complexes. 
  
 
-SWING : 
+# SWING : 
 
   - Interface Utilisateur Graphique (GUI) : Swing est une bibliothèque GUI puissante pour Java, permettant de créer des interfaces utilisateur riches et réactives. Elle est idéale pour visualiser l'architecture du processeur, l'état de la mémoire et les opérations de débogage. 
   
