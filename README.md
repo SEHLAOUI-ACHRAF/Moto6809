@@ -1,16 +1,15 @@
 # Moto6809
 Simulateur de Microprocesseur Moto6809
-Aperçu du Motorola 6809 
+
+Aperçu du Motorola 6809 :
 
 Introduit en 1978, le Motorola 6809 est un microprocesseur 8 bits qui s'est distingué dans l'histoire de l'informatique. Comparé à son prédécesseur, le Motorola 6800, il a apporté des améliorations notables en termes de performance et de capacités. Parmi ses caractéristiques marquantes, on peut citer : 
 
-
-
-1.	Architecture avancée : Contrairement à de nombreux autres processeurs 8 bits de l'époque, le 6809 disposait d'un jeu d'instructions plus riche et d'une structure de registres plus complexe, offrant ainsi une plus grande flexibilité pour la programmation. 
-
-2.	Modes d'adressage : Le 6809 a introduit un large éventail de modes d'adressage, ce qui était plutôt inhabituel pour les processeurs de sa catégorie à cette époque. 
-
-3.	Performance accrue : Il était considéré comme l'un des microprocesseurs 8 bits les plus puissants en termes de traitement des instructions complexes. 
+  1.	Architecture avancée : Contrairement à de nombreux autres processeurs 8 bits de l'époque, le 6809 disposait d'un jeu d'instructions plus riche et d'une structure de   registres plus complexe, offrant ainsi une plus grande flexibilité pour la programmation. 
+  
+  2.	Modes d'adressage : Le 6809 a introduit un large éventail de modes d'adressage, ce qui était plutôt inhabituel pour les processeurs de sa catégorie à cette époque. 
+  
+  3.	Performance accrue : Il était considéré comme l'un des microprocesseurs 8 bits les plus puissants en termes de traitement des instructions complexes. 
 
 
  
